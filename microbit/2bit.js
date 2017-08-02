@@ -33,8 +33,6 @@ radio.onDataPacketReceived(({ receivedNumber }) => {
     }
 })
 list = []
-list = []
-list = []
 cnt = 0
 list = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 radio.sendNumber(100)
