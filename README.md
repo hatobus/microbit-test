@@ -8,3 +8,5 @@
 2. Analog_read_and_servowrite
 	ScratchFile is [Here](https://makecode.microbit.org/_EHfFExaVVEyT)
 
+3. 2bit print
+     	ScratchFile is [Here](https://makecode.microbit.org/_g9UD6vMriW7u)
